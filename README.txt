@@ -1,33 +1,35 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🌟 Portafolio de Christian Daniel Palafox Adame
 
+¡Bienvenido a mi portafolio personal! 🚀  
+Aquí podrás encontrar información sobre mí, mis habilidades y proyectos que he desarrollado o en los que he participado.
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+## 📌 Sobre mí
+Soy un **QA Engineer** con formación en pruebas manuales y automatizadas, manejo de bases de datos, y conocimientos en programación.  
+Me apasiona garantizar la calidad de los productos digitales, optimizar procesos y trabajar en equipo para ofrecer la mejor experiencia al usuario.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 🛠 Tecnologías y Herramientas
+- **Pruebas:** Manuales, Automatizadas (Python, Pytest)
+- **Bases de Datos:** PostgreSQL, MySQL
+- **Herramientas:** Git, GitHub, Postman, JIRA
+- **Otros:** HTML, CSS, JavaScript básico
 
-(* = not included)
+## 📂 Proyectos
 
-AJ
-aj@lkn.io | @ajlkn
+### 1. [Urban Grocers - Automatización de pruebas](#)
+Automatización de pruebas para la creación de kits de productos en una aplicación, utilizando **Python**, **Pytest** y **GitHub Actions**.
 
+### 2. [Urban Routes - Pruebas de API y base de datos](#)
+Diseño y ejecución de casos de prueba para una aplicación de transporte urbano. Incluye pruebas de API con Postman y consultas en PostgreSQL.
 
-Credits:
+### 3. [Urban Scooter - Pruebas en aplicación móvil](#)
+Pruebas funcionales y exploratorias en aplicación móvil, revisión de logs y consultas a base de datos para validar integridad de datos.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## 📬 Contacto
+- 📍 Colima, México  
+- 📧 **cdan7800@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/christian-daniel-palafox-adame-105687327)  
+- 💻 [Portafolio en línea](https://Christian10D.github.io)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+---
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+💡 *Este portafolio está desarrollado con HTML y CSS, y alojado en GitHub Pages.*
