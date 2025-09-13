@@ -28,7 +28,7 @@ Pruebas funcionales y exploratorias en aplicación móvil, revisión de logs y c
 - 📍 Colima, México  
 - 📧 **cdan7800@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/christian-daniel-palafox-adame-105687327)  
-- 💻 [Portafolio en línea](https://Christian10D.github.io)
+- 💻 [Portafolio en línea](https://christian10d.github.io/Portafolio)
 
 ---
 
