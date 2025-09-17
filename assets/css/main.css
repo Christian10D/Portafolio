@@ -2565,12 +2565,16 @@ input, select, textarea {
 		border-radius: 0.25em;
 		border: 0;
 		display: inline-block;
-		position: relative;
+		position: static;
 	}
 
 		.image img {
 			border-radius: 0.25em;
 			display: block;
+			width: auto;
+			height: :autofill;
+			object-fit: cover;
+			object-position: center;
 		}
 
 		.image.left, .image.right {
